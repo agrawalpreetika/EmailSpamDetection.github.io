@@ -19,7 +19,7 @@ def main():
         st.write(' ')
 
     with col2:
-        st.image("/Users/utkarsh/Python and ML/mail-1454734_640.webp",width=200)
+        st.image("mail-1454734_640.webp",width=200)
 
     with col3:
         st.write(' ')
