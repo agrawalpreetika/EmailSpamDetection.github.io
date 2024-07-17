@@ -6,7 +6,7 @@ This project is an email and SMS spam detection tool built using Python and mach
 - Uses logistic regression for high accuracy (97.96%).
 - Provides a user-friendly interface with Streamlit.
 - I compared the accuracy of variious models and also optimized .
-- ![Alt text](metrics.png)
+-<img src="metrics.png" alt="Spam Detection" width="500"/>
 
 
 ## Website Link depolyed using Streamlit
