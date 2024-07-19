@@ -28,7 +28,7 @@ def main():
     # Description of the detection and accuracy
     st.markdown("""
     This app uses a machine learning model to classify emails and SMS messages as spam or not spam.
-    The model has been trained on a dataset and achieved an accuracy of 99.01 % on test data.
+    The model has been trained on a dataset and achieved an accuracy of 98.01 % on test data.
     """)
 
     spam = st.text_area("Enter the message:")
